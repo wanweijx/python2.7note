@@ -1,0 +1,19 @@
+# 输出
+print 提供了python的输出方法 比如
+
+print 'Hello World'
+>>>Hello World
+
+print 输出时可以用逗号链接多个字符串 当输出字符串的时候 逗号 会变成空格隔开两个字符串
+print 'Hello','World'
+>>>Hello World
+
+当需要多个字符串连起来一起输出的话 可以使用 加号 链接待输出的字符串
+print 'Hello'+'World'
+>>>HelloWorld
+
+print 可以输出计算结果
+print 100+200
+>>>300
+
+# 输入
